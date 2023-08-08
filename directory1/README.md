@@ -1,1 +1,1 @@
-This is a html documentation project for Mbingi Hotel
+This is a html, css, Javascript project for Mbingi Hotel
