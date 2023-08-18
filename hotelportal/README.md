@@ -1,1 +1,1 @@
-Hotel web portal
+Mbingi Hotel web portal
